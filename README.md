@@ -3,9 +3,9 @@
 This is a webstore simple project using Node.js, Mongodb, Stripe, and other Javascript Technologies.
 
 # Heroku
-```
- > [Link to online production build](https://rottay-react-store-app.herokuapp.com/) <
-```
+### > [Link to online production build](https://rottay-react-store-app.herokuapp.com/) <
+
+
 
 # Installation
 ```
