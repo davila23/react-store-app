@@ -22,10 +22,11 @@ npm run dev
 
 ## Images Demo
 
-<img width="1418" alt="Captura de Pantalla 2020-03-22 a la(s) 16 37 27" src="https://user-images.githubusercontent.com/50145471/77258930-9f158480-6c5c-11ea-99be-e490a080db9d.png">
+<img width="500" alt="Captura de Pantalla 2020-05-22 a la(s) 12 43 41" src="https://user-images.githubusercontent.com/50145471/82685212-3762c200-9c2a-11ea-936b-e77426b5c10b.png">
+<img width="500" alt="Captura de Pantalla 2020-05-22 a la(s) 12 40 42" src="https://user-images.githubusercontent.com/50145471/82685220-39c51c00-9c2a-11ea-87c1-33605e9c96a6.png">
+<img width="500" alt="Captura de Pantalla 2020-05-22 a la(s) 12 41 15" src="https://user-images.githubusercontent.com/50145471/82685227-3c277600-9c2a-11ea-952c-fcc90854bc34.png">
+<img width="500" alt="Captura de Pantalla 2020-05-22 a la(s) 12 41 58" src="https://user-images.githubusercontent.com/50145471/82685230-3cc00c80-9c2a-11ea-918f-4c1bc152fb93.png">
+<img width="500" alt="Captura de Pantalla 2020-05-22 a la(s) 12 42 29" src="https://user-images.githubusercontent.com/50145471/82685234-3f226680-9c2a-11ea-842e-18d6a8e52bd3.png">
 
-<img width="1438" alt="Captura de Pantalla 2020-03-22 a la(s) 16 37 37" src="https://user-images.githubusercontent.com/50145471/77258929-9de45780-6c5c-11ea-823e-f99b0b6a46c3.png">
-
-<img width="1438" alt="Captura de Pantalla 2020-03-22 a la(s) 16 37 50" src="https://user-images.githubusercontent.com/50145471/77258923-9ae96700-6c5c-11ea-8414-77b6305f6544.png">
 
 
