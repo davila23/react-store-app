@@ -16,7 +16,7 @@ Then create the following environment variables
 # Start the project
 This projects have two environments Development and production. To start in development mode run:
 ```
-npm run dev
+npm run dev 
 ```
 
 ## Images Demo
